@@ -23,6 +23,6 @@ To run
 ——
 
 In the build folder:
-./sc image1 new_width new_height image2
+./seg image1.png config.txt image2.png
 
  
